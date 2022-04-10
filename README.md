@@ -1,4 +1,9 @@
 ```
+$ bnd version
+6.2.0.202202251641
+```
+
+```
 $ ./make.sh
 + rm -rf out
 + javac --release 11 Main.java
